@@ -1,4 +1,4 @@
-https://ai-mock-interviewer-rmh4fjmpw-nayakniki076-2451s-projects.vercel.app/
+Working application link for use - https://ai-mock-interviewer-rmh4fjmpw-nayakniki076-2451s-projects.vercel.app/
 ## Run Locally
 
 **Prerequisites:**  Node.js
