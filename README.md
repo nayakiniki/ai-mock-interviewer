@@ -10,7 +10,7 @@ https://ai-mock-interviewer-rmh4fjmpw-nayakniki076-2451s-projects.vercel.app/
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
-Demo video of given product in question -
+#### Demo video of given product in question -
 
 
 https://github.com/user-attachments/assets/fdfcdcca-f5cf-4638-a7f8-06f0e34db5e1
